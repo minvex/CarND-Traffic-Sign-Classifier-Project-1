@@ -1,2 +1,0 @@
-model_checkpoint_path: "/mnt/CarND-Traffic-Sign-Classifier-Project/lenet_gray"
-all_model_checkpoint_paths: "/mnt/CarND-Traffic-Sign-Classifier-Project/lenet_gray"
